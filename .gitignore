@@ -1,0 +1,21 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Eclipse/VS Code
+/.classpath
+/.factorypath
+/.project
+/.settings/
+/.vscode/
+
+# Ignored default files
+/.idea
+*.iml
+/target
+
+# Ignored jar to deploy
+**/*.jar
+/.mvn
+/mvnw
+/HELP.md
